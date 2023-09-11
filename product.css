@@ -1,0 +1,26 @@
+
+  /* Product list styles */
+  .productList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .productList li {
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .productName {
+    font-weight: bold;
+  }
+  
+  .productQuantity {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+  .productPrice {
+    font-weight: bold;
+    color: green;
+  }
